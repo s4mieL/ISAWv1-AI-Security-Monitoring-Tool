@@ -57,3 +57,9 @@ Active development continues in later iterations of the ISAW system.
 
 This repository is provided for demonstration and research visibility purposes.
 Usage, redistribution, or deployment of the full ISAW system requires permission from the developer.
+
+---
+## Notes
+
+The C2 component in this repository acts as a control interface and
+orchestration layer for ISAW v1 modules.
